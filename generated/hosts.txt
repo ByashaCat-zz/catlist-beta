@@ -14522,7 +14522,6 @@ ff02::3 ipv6-allhosts
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 telemetry.appex.bing.net
 127.0.0.1 wes.df.telemetry.microsoft.com
-127.0.0.1 0.0.0.0
 127.0.0.1 n2019cov.000webhostapp.com
 127.0.0.1 webmail-who-int.000webhostapp.com
 127.0.0.1 010sec.com
@@ -14782,7 +14781,6 @@ ff02::3 ipv6-allhosts
 127.0.0.1 batterynart.com
 127.0.0.1 beauty-tea.com
 127.0.0.1 www.beauty-tea.com
-127.0.0.1 0.0.0.0.beeglivesex.com
 127.0.0.1 cdn.beginads.com
 127.0.0.1 www.cdn.beginads.com
 127.0.0.1 rotator.beginads.com
@@ -15753,9 +15751,7 @@ ff02::3 ipv6-allhosts
 127.0.0.1 segment.hotstar.com
 127.0.0.1 hpphhpph.com
 127.0.0.1 hpyrdr.com
-127.0.0.1 0.0.0.0.hpyrdr.com
 127.0.0.1 creative.hpyrdr.com
-127.0.0.1 0.0.0.0.creative.hpyrdr.com
 127.0.0.1 bmy.hqoohoa.com
 127.0.0.1 hrcorp1.site
 127.0.0.1 hrtya.com
@@ -54421,7 +54417,6 @@ ff02::3 ipv6-allhosts
 127.0.0.1 122907224924.c.mystat-in.net
 127.0.0.1 061606084448.c.mystat-in.net
 127.0.0.1 070806142521.c.mystat-in.net
-127.0.0.1 090906042103.c.mystat-in.net
 127.0.0.1 092706152958.c.mystat-in.net
 127.0.0.1 102106151057.c.mystat-in.net
 127.0.0.1 112006133326.c.mystat-in.net
@@ -88261,7 +88256,6 @@ ff02::3 ipv6-allhosts
 127.0.0.1 122907224924.c.mystat-in.net
 127.0.0.1 061606084448.c.mystat-in.net
 127.0.0.1 070806142521.c.mystat-in.net
-127.0.0.1 090906042103.c.mystat-in.net
 127.0.0.1 092706152958.c.mystat-in.net
 127.0.0.1 102106151057.c.mystat-in.net
 127.0.0.1 112006133326.c.mystat-in.net
